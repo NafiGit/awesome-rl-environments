@@ -133,6 +133,8 @@ The fast-moving frontier: environments designed to train and evaluate language-m
 - [PySC2](https://github.com/google-deepmind/pysc2) - DeepMind's StarCraft II Learning Environment, exposing the full game as an RL challenge.
 - [RLCard](https://github.com/datamllab/rlcard) - A toolkit of card games (poker, blackjack, mahjong, UNO) for RL with imperfect information.
 - [Pgx](https://github.com/sotetsuk/pgx) - Vectorized, JAX-native board games (chess, Go, shogi, backgammon) for high-throughput self-play.
+- [Alpha Dots & Boxes](https://github.com/IlyaKhalafi/AlphaDotsAndBoxes) - An RLlib multi-agent Dots and Boxes environment with variable board sizes, legal-action masks, and graph observations.
+- [DeepHokm](https://github.com/IlyaKhalafi/DeepHokm) - A Gymnasium environment for the partnership trick-taking card game Hokm, with configurable opponent policies and legal-action masks.
 
 ## Autonomous Driving
 
